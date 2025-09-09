@@ -1,0 +1,37 @@
+body {
+  background:#000;
+  color:#0ff;
+  text-align:center;
+  font-family:Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 20px;
+  text-shadow: 0 0 10px #0ff;
+}
+
+video {
+  border:2px solid #0ff;
+  border-radius:10px;
+  margin-top:20px;
+}
+
+button {
+  padding:10px 20px;
+  margin:20px;
+  background:#0ff;
+  border:none;
+  border-radius:20px;
+  cursor:pointer;
+  font-weight:bold;
+  color:#000;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+#music-link {
+  margin-top:20px;
+  font-size:18px;
+}
